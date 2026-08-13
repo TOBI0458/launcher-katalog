@@ -1,4 +1,15 @@
 {
   "manifestVersion": 1,
-  "games": []
+  "games": [
+    {
+      "id": "hollow-halls",
+      "title": "The Hollow Halls",
+      "developer": "Tobias",
+      "version": "0.1.0",
+      "featured": true,
+      "tags": ["Horror", "Ego-Perspektive", "Schleichen", "Einzelspieler"],
+      "shortDescription": "Ein blindes Wesen in einem stockdunklen Bunker. Es hört alles.",
+      "description": "Du wachst nach einem Aufzugsturz vier Ebenen unter der Stadt auf, in einer Zivilschutzanlage aus dem Kalten Krieg. Deine Taschenlampe liegt vor dir auf dem Boden und leuchtet in den Gang. Der Notausgang ist verriegelt, solange kein Strom da ist.\n\nDas Wesen hier unten ist blind. Es sieht dich nie — es hört dich. Deine Schritte, die Pfütze im Gang, das Metallgitter, die Tür, die du zu schnell aufreißt. Alles davon ist ein Geräusch, und jedes Geräusch ist eine Spur.\n\nORPHEUS, dein Assistent, sagt dir, wo es langgeht. Aber er spricht dabei laut. Seine Hilfe ist deine Gefahr.\n\nNoch nicht spielbar — hier steht, wann es so weit ist."
+    }
+  ]
 }
