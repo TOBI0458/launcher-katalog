@@ -7,9 +7,45 @@
       "developer": "Tobias",
       "version": "0.1.0",
       "featured": true,
-      "tags": ["Horror", "Ego-Perspektive", "Schleichen", "Einzelspieler"],
+      "tags": [
+        "Horror",
+        "Ego-Perspektive",
+        "Schleichen",
+        "Einzelspieler"
+      ],
       "shortDescription": "Etwas hört dich im Dunkeln. Finde den Weg nach draußen.",
-      "description": "Vier Ebenen unter der Stadt, in einer stillgelegten Zivilschutzanlage aus dem Kalten Krieg. Kein Strom, kein Licht außer dem, was du selbst dabeihast.\n\nEtwas ist hier unten mit dir. Es sieht dich nicht — es hört dich. Jeder Schritt ist eine Spur.\n\nDein Ziel ist der Notausgang. Er ist verriegelt."
+      "description": "Vier Ebenen unter der Stadt, in einer stillgelegten Zivilschutzanlage aus dem Kalten Krieg. Kein Strom, kein Licht außer dem, was du selbst dabeihast.\n\nEtwas ist hier unten mit dir. Es sieht dich nicht — es hört dich. Jeder Schritt ist eine Spur.\n\nDein Ziel ist der Notausgang. Er ist verriegelt.",
+      "cover": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-cover.jpg",
+      "hero": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-hero.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-1.jpg",
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-2.jpg",
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-3.jpg"
+      ]
+    },
+    {
+      "id": "sway",
+      "title": "SWAY",
+      "developer": "Tobias",
+      "version": "0.2.0",
+      "featured": false,
+      "tags": [
+        "Geschicklichkeit",
+        "Physik",
+        "Nur Maus",
+        "Einzelspieler",
+        "Bestenliste"
+      ],
+      "shortDescription": "Ein Kran. Ein Klotz an der Kette. Ein Klick.",
+      "description": "Der Klotz hängt an der Kette und schwingt. Außen steht er fast still — und daneben. In der Mitte ist er über dem Turm — und am schnellsten. Zwischen diesen beiden Wahrheiten liegt das ganze Spiel.\n\nJeder Klotz, den du auftürmst, macht den nächsten schwerer: Der Wind kommt erst ab sechs Metern, und er kommt für den, der schon etwas zu verlieren hat.\n\nEchte Physik, kein Raster. Der Turm fällt, weil sein Schwerpunkt über die Kante wandert — und man sieht es kommen.\n\nDrei Klötze im Sand, dann ist Feierabend.",
+      "releaseAt": "2026-09-18",
+      "cover": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-cover.jpg",
+      "hero": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-hero.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-1.jpg",
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-2.jpg",
+        "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-3.jpg"
+      ]
     }
   ]
 }
