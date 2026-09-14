@@ -5,7 +5,7 @@
       "id": "hollow-halls",
       "title": "The Hollow Halls",
       "developer": "Tobias",
-      "version": "0.1.0",
+      "version": "0.0.1",
       "featured": true,
       "tags": [
         "Horror",
@@ -27,7 +27,7 @@
       "id": "sway",
       "title": "SWAY",
       "developer": "Tobias",
-      "version": "0.2.0",
+      "version": "0.0.1",
       "featured": false,
       "tags": [
         "Geschicklichkeit",
