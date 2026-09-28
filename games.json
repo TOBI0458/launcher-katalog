@@ -1,5 +1,12 @@
 {
   "manifestVersion": 1,
+  "kommentare": {
+    "repo": "TOBI0458/launcher-katalog",
+    "clientId": "",
+    "admins": [
+      "TOBI0458"
+    ]
+  },
   "games": [
     {
       "id": "hollow-halls",
@@ -21,31 +28,40 @@
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-1.jpg",
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-2.jpg",
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/hollow-3.jpg"
-      ]
+      ],
+      "kommentare": 2
     },
     {
       "id": "sway",
       "title": "SWAY",
       "developer": "Tobias",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "featured": false,
       "tags": [
         "Geschicklichkeit",
         "Physik",
         "Nur Maus",
         "Einzelspieler",
-        "Bestenliste"
+        "Endlos"
       ],
       "shortDescription": "Ein Kran. Ein Klotz an der Kette. Ein Klick.",
-      "description": "Der Klotz hängt an der Kette und schwingt. Außen steht er fast still — und daneben. In der Mitte ist er über dem Turm — und am schnellsten. Zwischen diesen beiden Wahrheiten liegt das ganze Spiel.\n\nJeder Klotz, den du auftürmst, macht den nächsten schwerer: Der Wind kommt erst ab sechs Metern, und er kommt für den, der schon etwas zu verlieren hat.\n\nEchte Physik, kein Raster. Der Turm fällt, weil sein Schwerpunkt über die Kante wandert — und man sieht es kommen.\n\nDrei Klötze im Sand, dann ist Feierabend.",
-      "releaseAt": "2026-09-18",
+      "description": "Der Klotz hängt an der Kette und schwingt. Außen steht er fast still — und daneben. In der Mitte ist er über dem Turm — und am schnellsten. Zwischen diesen beiden Wahrheiten liegt das ganze Spiel.\n\nJeder Klotz, den du auftürmst, macht den nächsten schwerer: Der Wind kommt erst ab zehn Metern, und er kommt für den, der schon etwas zu verlieren hat.\n\nEchte Physik, kein Raster. Der Turm fällt, weil sein Schwerpunkt über die Kante wandert — und man sieht es kommen.\n\nNach oben gibt es keine Grenze. Drei Fehler, dann ist Feierabend.",
       "cover": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-cover.jpg",
       "hero": "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-hero.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-1.jpg",
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-2.jpg",
         "https://raw.githubusercontent.com/TOBI0458/launcher-katalog/main/art/sway-3.jpg"
-      ]
+      ],
+      "executable": "SWAY.html",
+      "sizeBytes": 150364,
+      "download": {
+        "url": "https://github.com/TOBI0458/launcher-katalog/releases/download/sway-v0.0.2/sway-0.0.2.zip",
+        "sha256": "2ce61765ff54b71656523be54192342b7d1ceb9008442eba725df391068694ea"
+      },
+      "patchNotes": "Endlos: untere Stockwerke härten aus, der Turm trägt beliebig hoch\nEin Einsturz kostet nur noch ein Leben\nKran fährt auf Schienen mit, wenn der Turm wandert\nHimmel, Wolken und Kranmast reichen jetzt in jede Höhe\nAm Ende zeigt die Kamera den ganzen Turm",
+      "kommentare": 1,
+      "releaseDate": "2026-09-28"
     }
   ]
 }
